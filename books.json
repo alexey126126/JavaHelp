@@ -1,0 +1,411 @@
+[ {
+  "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+  "name" : "Name_-840880279",
+  "author" : {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "authorId" : "2c056966-6f7f-4dc9-bb59-ffb57e7fdebf",
+    "name" : "Name_810150210",
+    "age" : 74,
+    "nativeLanguage" : "ENGLISH"
+  },
+  "interpreters" : {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "id" : "abe479b6-2989-4348-a2ae-f8d8797252a8",
+    "name" : "Name_-1576754536",
+    "age" : 61,
+    "workingLanguage" : "FRENCH"
+  },
+  "publisher" : {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "id" : "b320b046-8754-436a-8537-32cf1b4d9caf",
+    "name" : "HachetteBookGroup"
+  },
+  "readers" : [ {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "id" : "063430d9-ee4c-44b6-97ea-2d577735ed3e",
+    "name" : "Name_-436088313",
+    "age" : 37,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "id" : "063430d9-ee4c-44b6-97ea-2d577735ed3e",
+    "name" : "Name_1983729731",
+    "age" : 73,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "acde3b28-d4bc-4cb4-8255-97f52a3d0063",
+    "id" : "063430d9-ee4c-44b6-97ea-2d577735ed3e",
+    "name" : "Name_604460557",
+    "age" : 36,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+  "name" : "Name_2146666827",
+  "author" : {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "authorId" : "acdbaec8-476f-435d-ad6a-cff50d3f6845",
+    "name" : "Name_1302534809",
+    "age" : 54,
+    "nativeLanguage" : "FRENCH"
+  },
+  "interpreters" : {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "id" : "ad9a0818-85d3-4bb5-9116-319ca4795900",
+    "name" : "Name_-740140717",
+    "age" : 77,
+    "workingLanguage" : "ENGLISH"
+  },
+  "publisher" : {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "id" : "454a89c7-1e5d-4ec2-bdd8-4a71eaf02dfd",
+    "name" : "AZBUKA"
+  },
+  "readers" : [ {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "id" : "07364092-35ff-44ce-b1f8-c4ca9aa9cf0d",
+    "name" : "Name_-1367237477",
+    "age" : 41,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "id" : "07364092-35ff-44ce-b1f8-c4ca9aa9cf0d",
+    "name" : "Name_1655750982",
+    "age" : 59,
+    "nativeLanguage" : "ENGLISH"
+  }, {
+    "bookId" : "c68e7e3a-4fe0-4534-a757-b4facc23f0a5",
+    "id" : "07364092-35ff-44ce-b1f8-c4ca9aa9cf0d",
+    "name" : "Name_-1096474168",
+    "age" : 55,
+    "nativeLanguage" : "ITALIAN"
+  } ]
+}, {
+  "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+  "name" : "Name_512831928",
+  "author" : {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "authorId" : "429c939c-b8f3-4e8d-b413-c55328c059e3",
+    "name" : "Name_866477598",
+    "age" : 48,
+    "nativeLanguage" : "ENGLISH"
+  },
+  "interpreters" : {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "id" : "e0e0b855-ee2a-4293-8b55-d610d5ee0513",
+    "name" : "Name_-384148249",
+    "age" : 47,
+    "workingLanguage" : "RUSSIAN"
+  },
+  "publisher" : {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "id" : "1a12410a-6433-473c-bd54-868b7df6a6d1",
+    "name" : "HarperCollins"
+  },
+  "readers" : [ {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "id" : "d86fa2d1-4bcc-467f-8121-157eeef9cba8",
+    "name" : "Name_1494307957",
+    "age" : 50,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "id" : "d86fa2d1-4bcc-467f-8121-157eeef9cba8",
+    "name" : "Name_-704122539",
+    "age" : 62,
+    "nativeLanguage" : "RUSSIAN"
+  }, {
+    "bookId" : "95b5decd-72a7-4eee-872b-b06746fac6a1",
+    "id" : "d86fa2d1-4bcc-467f-8121-157eeef9cba8",
+    "name" : "Name_1242334764",
+    "age" : 39,
+    "nativeLanguage" : "ITALIAN"
+  } ]
+}, {
+  "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+  "name" : "Name_1216795909",
+  "author" : {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "authorId" : "6f132e6b-1f35-42f2-9b26-cfe64baa599f",
+    "name" : "Name_127609503",
+    "age" : 65,
+    "nativeLanguage" : "ENGLISH"
+  },
+  "interpreters" : {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "id" : "cdb3d3c8-d98c-4906-b403-9a0c726d87b2",
+    "name" : "Name_306853008",
+    "age" : 54,
+    "workingLanguage" : "ENGLISH"
+  },
+  "publisher" : {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "id" : "1a271c2c-50be-404c-ae3f-a3032fcc45be",
+    "name" : "PenguinRandomHouse"
+  },
+  "readers" : [ {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "id" : "daf384a1-ccdb-4bfd-8a8a-3a148e0f2dde",
+    "name" : "Name_-1585015988",
+    "age" : 39,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "id" : "daf384a1-ccdb-4bfd-8a8a-3a148e0f2dde",
+    "name" : "Name_-1217936944",
+    "age" : 38,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "bcfc1b31-161b-4a3e-8db6-176e22726212",
+    "id" : "daf384a1-ccdb-4bfd-8a8a-3a148e0f2dde",
+    "name" : "Name_-88627128",
+    "age" : 60,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+  "name" : "Name_516546609",
+  "author" : {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "authorId" : "cfde177e-6210-40ae-aadc-4e271d98d0e6",
+    "name" : "Name_785819766",
+    "age" : 32,
+    "nativeLanguage" : "RUSSIAN"
+  },
+  "interpreters" : {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "id" : "b6ef85f9-88ab-47cb-8b82-a4ec927a57bf",
+    "name" : "Name_-1970660072",
+    "age" : 35,
+    "workingLanguage" : "RUSSIAN"
+  },
+  "publisher" : {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "id" : "18e7ba7b-4a47-4892-af40-90e939ccd26f",
+    "name" : "HarperCollins"
+  },
+  "readers" : [ {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "id" : "040b9978-8590-49b9-a205-9c47e8149b89",
+    "name" : "Name_2145889054",
+    "age" : 26,
+    "nativeLanguage" : "ENGLISH"
+  }, {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "id" : "040b9978-8590-49b9-a205-9c47e8149b89",
+    "name" : "Name_2009664418",
+    "age" : 48,
+    "nativeLanguage" : "FRENCH"
+  }, {
+    "bookId" : "6ce071eb-a3e0-4bcc-830a-53b7d485a5bf",
+    "id" : "040b9978-8590-49b9-a205-9c47e8149b89",
+    "name" : "Name_-1428128734",
+    "age" : 42,
+    "nativeLanguage" : "ENGLISH"
+  } ]
+}, {
+  "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+  "name" : "Name_-2138576357",
+  "author" : {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "authorId" : "f9f49667-cb2f-4366-87c0-3400ae0b512c",
+    "name" : "Name_-786794953",
+    "age" : 43,
+    "nativeLanguage" : "ITALIAN"
+  },
+  "interpreters" : {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "id" : "1bd8ba44-2c32-464a-b081-240c1194cbba",
+    "name" : "Name_-2082167215",
+    "age" : 54,
+    "workingLanguage" : "FRENCH"
+  },
+  "publisher" : {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "id" : "e54f600c-649d-4499-a78a-aca8d3fe2fd1",
+    "name" : "PenguinRandomHouse"
+  },
+  "readers" : [ {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "id" : "8f9bc41e-9c2b-46ca-9b59-46796eee1c30",
+    "name" : "Name_1710894157",
+    "age" : 71,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "id" : "8f9bc41e-9c2b-46ca-9b59-46796eee1c30",
+    "name" : "Name_-390181445",
+    "age" : 22,
+    "nativeLanguage" : "ENGLISH"
+  }, {
+    "bookId" : "b49a257c-608e-4cc1-885c-cfcee7cc329e",
+    "id" : "8f9bc41e-9c2b-46ca-9b59-46796eee1c30",
+    "name" : "Name_-2143419094",
+    "age" : 43,
+    "nativeLanguage" : "SPANISH"
+  } ]
+}, {
+  "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+  "name" : "Name_1276182357",
+  "author" : {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "authorId" : "e36f8946-ed3f-4984-892c-2c1824fdc864",
+    "name" : "Name_-358366689",
+    "age" : 67,
+    "nativeLanguage" : "RUSSIAN"
+  },
+  "interpreters" : {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "id" : "de21128d-e890-47cd-9889-a1c7aa967a11",
+    "name" : "Name_1238116780",
+    "age" : 35,
+    "workingLanguage" : "SPANISH"
+  },
+  "publisher" : {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "id" : "7984af92-e76c-46e6-8f78-1993fce20b63",
+    "name" : "PenguinRandomHouse"
+  },
+  "readers" : [ {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "id" : "bd389ee4-2b98-47cb-ba9b-815071e84d30",
+    "name" : "Name_-1260029671",
+    "age" : 25,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "id" : "bd389ee4-2b98-47cb-ba9b-815071e84d30",
+    "name" : "Name_-994630935",
+    "age" : 44,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "615bc457-85d8-4f07-837f-29d9721379c5",
+    "id" : "bd389ee4-2b98-47cb-ba9b-815071e84d30",
+    "name" : "Name_407906994",
+    "age" : 24,
+    "nativeLanguage" : "SPANISH"
+  } ]
+}, {
+  "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+  "name" : "Name_-1878634752",
+  "author" : {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "authorId" : "8956e3ef-908a-467c-8aa4-1ef659e74480",
+    "name" : "Name_1251723210",
+    "age" : 68,
+    "nativeLanguage" : "ENGLISH"
+  },
+  "interpreters" : {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "id" : "9ec2ebdf-38b6-4e74-8317-2431246535ef",
+    "name" : "Name_1930760846",
+    "age" : 21,
+    "workingLanguage" : "RUSSIAN"
+  },
+  "publisher" : {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "id" : "0bcce94f-75ec-4718-af35-aca4d5e66c38",
+    "name" : "HarperCollins"
+  },
+  "readers" : [ {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "id" : "1ae5b70d-94d4-4cbd-baea-9f5aff8fa9b6",
+    "name" : "Name_672003318",
+    "age" : 50,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "id" : "1ae5b70d-94d4-4cbd-baea-9f5aff8fa9b6",
+    "name" : "Name_702210939",
+    "age" : 47,
+    "nativeLanguage" : "SPANISH"
+  }, {
+    "bookId" : "f3a27c68-b7e0-41dd-bb09-3ab09c403bbd",
+    "id" : "1ae5b70d-94d4-4cbd-baea-9f5aff8fa9b6",
+    "name" : "Name_110654105",
+    "age" : 69,
+    "nativeLanguage" : "FRENCH"
+  } ]
+}, {
+  "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+  "name" : "Name_190002249",
+  "author" : {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "authorId" : "5db8b38e-2ffc-4e89-a160-f6e798a96383",
+    "name" : "Name_969004199",
+    "age" : 39,
+    "nativeLanguage" : "ENGLISH"
+  },
+  "interpreters" : {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "id" : "d78c6f12-a117-401f-9c96-9cb62d195d05",
+    "name" : "Name_-1985484917",
+    "age" : 72,
+    "workingLanguage" : "SPANISH"
+  },
+  "publisher" : {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "id" : "ff04ffa4-cc7b-44ff-a33b-6d74410469b7",
+    "name" : "SimonAndSchuster"
+  },
+  "readers" : [ {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "id" : "276484cc-5726-4fac-ab23-1a1fd515de4d",
+    "name" : "Name_153189294",
+    "age" : 79,
+    "nativeLanguage" : "RUSSIAN"
+  }, {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "id" : "276484cc-5726-4fac-ab23-1a1fd515de4d",
+    "name" : "Name_-1254469384",
+    "age" : 56,
+    "nativeLanguage" : "ENGLISH"
+  }, {
+    "bookId" : "9a4cbb20-bec4-4ea9-b258-8d9cc7a61591",
+    "id" : "276484cc-5726-4fac-ab23-1a1fd515de4d",
+    "name" : "Name_-572985369",
+    "age" : 67,
+    "nativeLanguage" : "ITALIAN"
+  } ]
+}, {
+  "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+  "name" : "Name_-2019932401",
+  "author" : {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "authorId" : "fed58921-cb6d-4636-9bc1-525f9a7f1419",
+    "name" : "Name_-918909909",
+    "age" : 61,
+    "nativeLanguage" : "RUSSIAN"
+  },
+  "interpreters" : {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "id" : "72f334ed-5806-42e2-a4b7-1eb1086eb53b",
+    "name" : "Name_1101393291",
+    "age" : 57,
+    "workingLanguage" : "RUSSIAN"
+  },
+  "publisher" : {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "id" : "19b16d97-3979-4ba1-b8b1-b3e8157a1edd",
+    "name" : "HachetteBookGroup"
+  },
+  "readers" : [ {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "id" : "df2a3925-7819-4fb2-bd60-ec646acafe44",
+    "name" : "Name_362456066",
+    "age" : 26,
+    "nativeLanguage" : "FRENCH"
+  }, {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "id" : "df2a3925-7819-4fb2-bd60-ec646acafe44",
+    "name" : "Name_-755139645",
+    "age" : 62,
+    "nativeLanguage" : "ITALIAN"
+  }, {
+    "bookId" : "f43ec107-28f2-4f4b-9e6a-e0a668f24703",
+    "id" : "df2a3925-7819-4fb2-bd60-ec646acafe44",
+    "name" : "Name_2129284915",
+    "age" : 53,
+    "nativeLanguage" : "RUSSIAN"
+  } ]
+} ]
